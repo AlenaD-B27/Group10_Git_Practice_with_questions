@@ -505,7 +505,7 @@ Zorig:
 During ______ meeting: 1. PO explains each story to the dev team.
                        2. Point estimation based on Fibonacci system.
 
-Alena:
+Alena: Grooming
 Aysun:
 Cumali:
 Elena:
