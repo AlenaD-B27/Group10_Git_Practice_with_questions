@@ -37,7 +37,7 @@ Zorig:
 2. Java Syntax:
 System.____.println("Hello World!");
 
-Alena:
+Alena: out
 Aysun:
 Cumali:
 Elena:
