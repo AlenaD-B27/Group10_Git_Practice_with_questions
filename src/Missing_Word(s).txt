@@ -1,0 +1,663 @@
+SAMPLE:
+
+My favourite color is ________.
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+
+1. SoftSkill:
+_______ is the leader and the coach for the scrum team who checks whether the scrum team is executing committed tasks properly. He is also responsible to increase the efficiency and productivity of the team so that they can achieve the sprint goal effectively.
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+2. Java Syntax:
+System.____.println("Hello World!");
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+3. Selenium Syntax:
+driver.manage().timeouts().implicitlyWait(10, _______.SECONDS);
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+4. Java Syntax:
+public static void main(_______ args) {
+}
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+5. Selenium Syntax:
+WebElement forgotPassword = driver.findElement(By.________("//h2[text()='Forgot Password']"));
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+6. Selenium Syntax:
+Assert.__________(actualText.contains(expectedText));
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+7. Java Syntax:
+Scanner input = new Scanner(__________);
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+8. Java Syntax:
+String daysOfTheWeek [] = __"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" __;
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+9. Java:
+Primitive data types sorted by memory capacity: byte, short, int, long, _____, double.
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+
+10. Java Syntax:
+Constant variable: public static _____ double PI = 3.14;
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+11. SoftSkill:
+
+Types of Application software:
+                      1. Web-based app
+                      2. Mobile app
+                      3. ______ app
+                      4. Hybrid app
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+12. SoftSkill:
+
+URL stands for Uniform Resource _________. URL is the address of a given unique resource on the Web.
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+13. Real interview question: - What are the Operating System(OS) do you use?
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+14. Real interview question: - What are the browsers do you know?
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+15.  Real interview question: - What Java version do you use?
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+16. SoftSkill:
+
+________ are the different versions of the software, and each version has a different
+URL and purpose of use. It is created by the developers.
+There are at least 4 of them for a software: development, test, staging and production.
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+17. SoftSkill:
+
+Business team = PM + PO + _____;
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+18. SoftSkill:
+
+every sprint, all the developers & SDETs show their tasks' result in a  ______ meeting - represent the app and codes in front of the business team (and sometimes customer).
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+19. HTML:
+
+<html>
+    <________>
+        <title>Welcome To Our Website!</title>
+    </_______>
+    <body>
+            some html code here
+            some html code here
+            some html code here
+    </body>
+</html>
+
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+20. HTML:
+
+HTML stands for HyperText ______ Language.
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+
+21. SoftSkill:
+
+Static testing => Verification process
+______ testing => Validation process
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+
+22. SoftSkill:
+
+5000 users search same item at the same time. ----->   It is an example of _______ testing.
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+23. SoftSkill:
+
+________ is a detail info about User Story.
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+24. OOP Java:
+
+_______ :public, default, private, protected.
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+25. Git:
+
+------- color means it is not committed.
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+
+26. Git:
+
+VCS stands for ___________.
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+27. Git:
+
+___________ is a folder which keeps track of changes, can be local or remote;
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+28. Git:
+
+______ function copies local changes to remote repository;
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+29. SoftSkill:
+
+During ______ meeting: 1. PO explains each story to the dev team.
+                       2. Point estimation based on Fibonacci system.
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+30. Java:
+
+float f = 14.5F;
+int i = (int)f;
+
+   It is an example of ________.
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+
+31. Java:
+
+   int n = 2;
+   System.out.println(n++);
+   Output: ___
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+
+32. Java:
+
+   System.out.println(4 != 20);
+
+   Output: ___
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+
+33. Java:
+
+   boolean a = true;
+   boolean b = true;
+
+   if(a){
+       System.out.println(1);
+           if(b){
+              System.out.println(2);
+           }
+   }
+
+   It is an example of ______ if statement.
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+
+34. Java:
+
+   String browser = "internet explorer";
+         switch(browser){
+             case "chrome":
+                 System.out.println("opening google in chrome");
+                 break;
+             case "firefox":
+                 System.out.println("opening google in firefox");
+                 break;
+             case "safari":
+                 System.out.println("opening google safari");
+                 break;
+
+             default:
+                 System.out.println("opening google in chrome");
+         }
+
+         Ooutput:__________
+
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+
+35. Selenium:
+
+@__________
+    public void tearDown(){
+        driver.quit();
+    }
+
+Alena:
+Aysun:
+Cumali:
+Elena:
+Jasmine:
+Jennifer:
+Maria:
+Olesya:
+Olha:
+Seraphi:
+Vitalii:
+Zorig:
+
+
