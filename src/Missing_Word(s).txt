@@ -303,7 +303,7 @@ Zorig:
 
 every sprint, all the developers & SDETs show their tasks' result in a  ______ meeting - represent the app and codes in front of the business team (and sometimes customer).
 
-Alena:
+Alena: Demo
 Aysun:
 Cumali:
 Elena:
