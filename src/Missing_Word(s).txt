@@ -453,7 +453,7 @@ Zorig:
 
 VCS stands for ___________.
 
-Alena:
+Alena: Version Control System
 Aysun:
 Cumali:
 Elena:
