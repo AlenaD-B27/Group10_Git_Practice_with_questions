@@ -366,7 +366,7 @@ Zorig:
 Static testing => Verification process
 ______ testing => Validation process
 
-Alena:
+Alena: Dynamic
 Aysun:
 Cumali:
 Elena:
