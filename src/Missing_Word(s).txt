@@ -525,7 +525,7 @@ int i = (int)f;
 
    It is an example of ________.
 
-Alena:
+Alena: casting
 Aysun:
 Cumali:
 Elena:
