@@ -649,7 +649,7 @@ Zorig:
         driver.quit();
     }
 
-Alena:
+Alena: AfterMethod
 Aysun:
 Cumali:
 Elena:
