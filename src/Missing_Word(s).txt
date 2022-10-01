@@ -167,7 +167,7 @@ Zorig:
 10. Java Syntax:
 Constant variable: public static _____ double PI = 3.14;
 
-Alena:
+Alena: final
 Aysun:
 Cumali:
 Elena:
