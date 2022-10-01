@@ -250,7 +250,7 @@ Zorig:
 
 15.  Real interview question: - What Java version do you use?
 
-Alena:
+Alena: at the moment Java 11.
 Aysun:
 Cumali:
 Elena:
