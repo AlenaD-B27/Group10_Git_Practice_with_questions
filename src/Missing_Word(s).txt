@@ -3,7 +3,7 @@ SAMPLE:
 My favourite color is ________.
 
 Alena:
-Aysun:
+Aysun: Orange
 Cumali:
 Elena:
 Jasmine:
