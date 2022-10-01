@@ -347,7 +347,7 @@ Zorig:
 
 HTML stands for HyperText ______ Language.
 
-Alena:
+Alena: Markup
 Aysun:
 Cumali:
 Elena:
