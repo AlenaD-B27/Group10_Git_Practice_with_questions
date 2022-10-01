@@ -269,7 +269,7 @@ ________ are the different versions of the software, and each version has a diff
 URL and purpose of use. It is created by the developers.
 There are at least 4 of them for a software: development, test, staging and production.
 
-Alena:
+Alena: Environments
 Aysun:
 Cumali:
 Elena:
