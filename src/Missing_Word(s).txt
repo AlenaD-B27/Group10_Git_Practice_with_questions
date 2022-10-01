@@ -150,7 +150,7 @@ Zorig:
 9. Java:
 Primitive data types sorted by memory capacity: byte, short, int, long, _____, double.
 
-Alena:
+Alena: float
 Aysun:
 Cumali:
 Elena:
