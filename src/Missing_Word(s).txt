@@ -2,17 +2,17 @@ SAMPLE:
 
 My favourite color is ________.
 
-Alena:
+Alena: dark green
 Aysun:
-Cumali:
+Cumali: Khaki,Egyptian blue
 Elena:
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
 Olha: Purple
+Olesya: Green
 Seraphi:
-Vitalii:
+Vitalii: white
 Zorig:
 
 
