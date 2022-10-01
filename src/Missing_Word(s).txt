@@ -2,18 +2,20 @@ SAMPLE:
 
 My favourite color is ________.
 
-Alena:
+Alena: dark green
 Aysun:
 Cumali:
-Elena:
+Elena: Yellow
+Aysun: Orange
+Cumali: Khaki,Egyptian blue
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
-Olha:
+Olha: Purple
+Olesya: Green
 Seraphi:
-Vitalii:
-Zorig:
+Zorig: Black
+Vitalii: white
 
 
 1. SoftSkill:
