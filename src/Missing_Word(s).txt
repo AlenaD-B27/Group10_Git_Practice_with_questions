@@ -6,13 +6,15 @@ Alena:
 Aysun:
 Cumali:
 Elena: Yellow
+Aysun: Orange
+Cumali: Khaki,Egyptian blue
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
-Olha:
+Olha: Purple
+Olesya: Green
 Seraphi:
-Vitalii:
+Vitalii: white
 Zorig:
 
 
