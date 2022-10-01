@@ -44,7 +44,7 @@ Elena:
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya:out
 Olha:
 Seraphi:
 Vitalii:
