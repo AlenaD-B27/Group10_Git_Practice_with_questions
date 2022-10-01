@@ -141,7 +141,7 @@ Elena:
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya: {}
 Olha:
 Seraphi:
 Vitalii:
