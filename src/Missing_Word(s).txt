@@ -10,7 +10,7 @@ Jasmine:
 Jennifer:
 Maria:
 Olesya:
-Olha:
+Olha: Purple
 Seraphi:
 Vitalii:
 Zorig:
