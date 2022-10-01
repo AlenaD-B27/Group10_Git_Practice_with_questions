@@ -134,7 +134,7 @@ Zorig:
 8. Java Syntax:
 String daysOfTheWeek [] = __"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" __;
 
-Alena:
+Alena: {}
 Aysun:
 Cumali:
 Elena:
