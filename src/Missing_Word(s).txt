@@ -21,7 +21,7 @@ Vitalii: white
 1. SoftSkill:
 _______ is the leader and the coach for the scrum team who checks whether the scrum team is executing committed tasks properly. He is also responsible to increase the efficiency and productivity of the team so that they can achieve the sprint goal effectively.
 
-Alena:
+Alena: Scrum Master
 Aysun:
 Cumali:
 Elena:
@@ -102,7 +102,7 @@ Zorig:
 6. Selenium Syntax:
 Assert.__________(actualText.contains(expectedText));
 
-Alena:
+Alena: assertTrue
 Aysun:
 Cumali:
 Elena:
