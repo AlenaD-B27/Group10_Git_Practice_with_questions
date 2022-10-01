@@ -174,7 +174,7 @@ Elena:
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya: final
 Olha:
 Seraphi:
 Vitalii:
