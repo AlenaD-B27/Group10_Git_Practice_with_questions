@@ -384,7 +384,7 @@ Zorig:
 
 5000 users search same item at the same time. ----->   It is an example of _______ testing.
 
-Alena:
+Alena: stress
 Aysun:
 Cumali:
 Elena:
