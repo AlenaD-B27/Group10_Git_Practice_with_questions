@@ -125,7 +125,7 @@ Elena:
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya: (System.in);
 Olha:
 Seraphi:
 Vitalii:
