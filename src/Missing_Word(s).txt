@@ -9,7 +9,7 @@ Elena:
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya: Green
 Olha:
 Seraphi:
 Vitalii:
