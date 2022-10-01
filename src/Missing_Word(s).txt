@@ -77,7 +77,7 @@ Elena:
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya: String []
 Olha:
 Seraphi:
 Vitalii:
