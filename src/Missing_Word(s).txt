@@ -435,7 +435,7 @@ Zorig:
 
 ------- color means it is not committed.
 
-Alena:
+Alena: Red
 Aysun:
 Cumali:
 Elena:
