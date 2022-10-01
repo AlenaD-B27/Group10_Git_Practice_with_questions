@@ -14,8 +14,8 @@ Maria:
 Olha: Purple
 Olesya: Green
 Seraphi:
+Zorig: Black
 Vitalii: white
-Zorig:
 
 
 1. SoftSkill:
