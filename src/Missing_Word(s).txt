@@ -118,7 +118,7 @@ Zorig:
 7. Java Syntax:
 Scanner input = new Scanner(__________);
 
-Alena:
+Alena: System.in
 Aysun:
 Cumali:
 Elena:
