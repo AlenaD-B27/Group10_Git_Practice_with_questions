@@ -13,7 +13,7 @@ Olesya:
 Olha:
 Seraphi:
 Vitalii:
-Zorig:
+Zorig: Black
 
 
 1. SoftSkill:
