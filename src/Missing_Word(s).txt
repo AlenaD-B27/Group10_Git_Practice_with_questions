@@ -545,7 +545,7 @@ Zorig:
    System.out.println(n++);
    Output: ___
 
-Alena:
+Alena: 2
 Aysun:
 Cumali:
 Elena:
