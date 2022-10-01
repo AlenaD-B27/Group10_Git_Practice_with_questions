@@ -53,7 +53,7 @@ Zorig:
 3. Selenium Syntax:
 driver.manage().timeouts().implicitlyWait(10, _______.SECONDS);
 
-Alena:
+Alena: TimeUnits
 Aysun:
 Cumali:
 Elena:
