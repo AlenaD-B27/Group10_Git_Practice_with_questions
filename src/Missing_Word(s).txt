@@ -418,7 +418,7 @@ Zorig:
 
 _______ :public, default, private, protected.
 
-Alena:
+Alena: Access modifiers
 Aysun:
 Cumali:
 Elena:
