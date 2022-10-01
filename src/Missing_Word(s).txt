@@ -109,7 +109,7 @@ Elena:
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya: assertEquals
 Olha:
 Seraphi:
 Vitalii:
