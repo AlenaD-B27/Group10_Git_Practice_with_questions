@@ -401,7 +401,7 @@ Zorig:
 
 ________ is a detail info about User Story.
 
-Alena:
+Alena: Acceptance criteria
 Aysun:
 Cumali:
 Elena:
