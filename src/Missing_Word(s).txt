@@ -593,7 +593,7 @@ Zorig:
 
    It is an example of ______ if statement.
 
-Alena:
+Alena: nested
 Aysun:
 Cumali:
 Elena:
