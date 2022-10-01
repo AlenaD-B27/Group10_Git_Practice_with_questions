@@ -3,9 +3,11 @@ SAMPLE:
 My favourite color is ________.
 
 Alena:
+Aysun:
+Cumali:
+Elena: Yellow
 Aysun: Orange
 Cumali: Khaki,Egyptian blue
-Elena:
 Jasmine:
 Jennifer:
 Maria:
