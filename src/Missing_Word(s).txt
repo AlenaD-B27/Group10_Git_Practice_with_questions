@@ -86,7 +86,7 @@ Zorig:
 5. Selenium Syntax:
 WebElement forgotPassword = driver.findElement(By.________("//h2[text()='Forgot Password']"));
 
-Alena:
+Alena: xpath
 Aysun:
 Cumali:
 Elena:
