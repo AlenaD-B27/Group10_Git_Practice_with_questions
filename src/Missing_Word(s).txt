@@ -205,7 +205,7 @@ Zorig:
 
 URL stands for Uniform Resource _________. URL is the address of a given unique resource on the Web.
 
-Alena:
+Alena: Locator
 Aysun:
 Cumali:
 Elena:
