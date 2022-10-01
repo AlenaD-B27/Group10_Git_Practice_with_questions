@@ -195,7 +195,7 @@ Elena:
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya: Android and iOS app
 Olha:
 Seraphi:
 Vitalii:
