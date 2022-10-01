@@ -70,7 +70,7 @@ Zorig:
 public static void main(_______ args) {
 }
 
-Alena:
+Alena: String []
 Aysun:
 Cumali:
 Elena:
