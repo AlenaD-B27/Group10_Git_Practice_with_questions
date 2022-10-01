@@ -286,7 +286,7 @@ Zorig:
 
 Business team = PM + PO + _____;
 
-Alena:
+Alena: BA
 Aysun:
 Cumali:
 Elena:
