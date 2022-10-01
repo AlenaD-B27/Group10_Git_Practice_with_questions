@@ -235,7 +235,7 @@ Zorig:
 
 14. Real interview question: - What are the browsers do you know?
 
-Alena:
+Alena: Safari, Chrome, Firefox, IE, Microsoft Edge
 Aysun:
 Cumali:
 Elena:
