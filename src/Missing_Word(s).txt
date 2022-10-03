@@ -545,7 +545,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:2
 Elena:
 Jasmine:
 Jennifer:
