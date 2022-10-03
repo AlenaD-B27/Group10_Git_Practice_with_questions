@@ -366,7 +366,7 @@ ______ testing => Validation process
 
 Alena:
 Aysun:
-Cumali:
+Cumali:Dynamic
 Elena:
 Jasmine:
 Jennifer:
