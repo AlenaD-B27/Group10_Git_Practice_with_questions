@@ -205,7 +205,7 @@ URL stands for Uniform Resource _________. URL is the address of a given unique 
 
 Alena:
 Aysun:
-Cumali:
+Cumali: locator
 Elena:
 Jasmine:
 Jennifer:
