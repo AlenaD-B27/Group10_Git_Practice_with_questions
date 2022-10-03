@@ -177,7 +177,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: final
 Zorig:
 
 11. SoftSkill:
