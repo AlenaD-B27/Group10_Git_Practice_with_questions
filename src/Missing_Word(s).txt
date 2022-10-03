@@ -220,7 +220,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:macCOS Monterey
 Elena:
 Jasmine:
 Jennifer:
