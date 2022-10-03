@@ -384,7 +384,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali: Performance
 Elena:
 Jasmine:
 Jennifer:
