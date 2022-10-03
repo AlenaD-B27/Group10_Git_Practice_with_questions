@@ -118,7 +118,7 @@ Scanner input = new Scanner(__________);
 
 Alena:
 Aysun:
-Cumali:
+Cumali:System.in
 Elena:
 Jasmine:
 Jennifer:
