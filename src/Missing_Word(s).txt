@@ -230,7 +230,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: Windows
 Zorig:
 
 14. Real interview question: - What are the browsers do you know?
