@@ -401,7 +401,7 @@ ________ is a detail info about User Story.
 
 Alena:
 Aysun:
-Cumali:
+Cumali: Describe
 Elena:
 Jasmine:
 Jennifer:
