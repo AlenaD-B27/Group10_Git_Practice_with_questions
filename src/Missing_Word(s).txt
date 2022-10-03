@@ -470,7 +470,7 @@ ___________ is a folder which keeps track of changes, can be local or remote;
 
 Alena:
 Aysun:
-Cumali:
+Cumali:repository
 Elena:
 Jasmine:
 Jennifer:
