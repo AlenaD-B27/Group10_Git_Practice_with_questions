@@ -480,7 +480,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: develop
 Zorig:
 
 28. Git:
