@@ -23,7 +23,7 @@ _______ is the leader and the coach for the scrum team who checks whether the sc
 
 Alena:
 Aysun:
-Cumali:
+Cumali:Scrum Master
 Elena:
 Jasmine:
 Jennifer:
@@ -39,7 +39,7 @@ System.____.println("Hello World!");
 
 Alena:
 Aysun:
-Cumali:
+Cumali:out
 Elena:
 Jasmine:
 Jennifer:
@@ -55,7 +55,7 @@ driver.manage().timeouts().implicitlyWait(10, _______.SECONDS);
 
 Alena:
 Aysun:
-Cumali:
+Cumali:TimeUnit
 Elena:
 Jasmine:
 Jennifer:
@@ -72,7 +72,7 @@ public static void main(_______ args) {
 
 Alena:
 Aysun:
-Cumali:
+Cumali:String[]
 Elena:
 Jasmine:
 Jennifer:
@@ -88,7 +88,7 @@ WebElement forgotPassword = driver.findElement(By.________("//h2[text()='Forgot 
 
 Alena:
 Aysun:
-Cumali:
+Cumali:xpath
 Elena:
 Jasmine:
 Jennifer:
@@ -104,7 +104,7 @@ Assert.__________(actualText.contains(expectedText));
 
 Alena:
 Aysun:
-Cumali:
+Cumali:True
 Elena:
 Jasmine:
 Jennifer:
@@ -120,7 +120,7 @@ Scanner input = new Scanner(__________);
 
 Alena:
 Aysun:
-Cumali:
+Cumali:System.in
 Elena:
 Jasmine:
 Jennifer:
@@ -136,7 +136,7 @@ String daysOfTheWeek [] = __"Monday", "Tuesday", "Wednesday", "Thursday", "Frida
 
 Alena:
 Aysun:
-Cumali:
+Cumali:{}
 Elena:
 Jasmine:
 Jennifer:
@@ -152,7 +152,7 @@ Primitive data types sorted by memory capacity: byte, short, int, long, _____, d
 
 Alena:
 Aysun:
-Cumali:
+Cumali:float
 Elena:
 Jasmine:
 Jennifer:
@@ -169,7 +169,7 @@ Constant variable: public static _____ double PI = 3.14;
 
 Alena:
 Aysun:
-Cumali:
+Cumali:final
 Elena:
 Jasmine:
 Jennifer:
@@ -190,7 +190,7 @@ Types of Application software:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:desktop
 Elena:
 Jasmine:
 Jennifer:
@@ -207,7 +207,7 @@ URL stands for Uniform Resource _________. URL is the address of a given unique 
 
 Alena:
 Aysun:
-Cumali:
+Cumali: locator
 Elena:
 Jasmine:
 Jennifer:
@@ -222,7 +222,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:macCOS Monterey
 Elena:
 Jasmine:
 Jennifer:
@@ -237,7 +237,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:Chrome, Firefox, Dolphin, Opera, Safari, Microsoft Edge
 Elena:
 Jasmine:
 Jennifer:
@@ -252,7 +252,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:11
 Elena:
 Jasmine:
 Jennifer:
@@ -271,7 +271,7 @@ There are at least 4 of them for a software: development, test, staging and prod
 
 Alena:
 Aysun:
-Cumali:
+Cumali:Environment
 Elena:
 Jasmine:
 Jennifer:
@@ -288,7 +288,7 @@ Business team = PM + PO + _____;
 
 Alena:
 Aysun:
-Cumali:
+Cumali:BA
 Elena:
 Jasmine:
 Jennifer:
@@ -305,7 +305,7 @@ every sprint, all the developers & SDETs show their tasks' result in a  ______ m
 
 Alena:
 Aysun:
-Cumali:
+Cumali:Demo
 Elena:
 Jasmine:
 Jennifer:
@@ -332,7 +332,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:<head> </head>
 Elena:
 Jasmine:
 Jennifer:
@@ -349,7 +349,7 @@ HTML stands for HyperText ______ Language.
 
 Alena:
 Aysun:
-Cumali:
+Cumali:Markup
 Elena:
 Jasmine:
 Jennifer:
@@ -368,7 +368,7 @@ ______ testing => Validation process
 
 Alena:
 Aysun:
-Cumali:
+Cumali:Dynamic
 Elena:
 Jasmine:
 Jennifer:
@@ -386,7 +386,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali: Performance
 Elena:
 Jasmine:
 Jennifer:
@@ -403,7 +403,7 @@ ________ is a detail info about User Story.
 
 Alena:
 Aysun:
-Cumali:
+Cumali: Describe
 Elena:
 Jasmine:
 Jennifer:
@@ -420,7 +420,7 @@ _______ :public, default, private, protected.
 
 Alena:
 Aysun:
-Cumali:
+Cumali:Access Modifier
 Elena:
 Jasmine:
 Jennifer:
@@ -437,7 +437,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:Red
 Elena:
 Jasmine:
 Jennifer:
@@ -455,7 +455,7 @@ VCS stands for ___________.
 
 Alena:
 Aysun:
-Cumali:
+Cumali: Version control system
 Elena:
 Jasmine:
 Jennifer:
@@ -472,7 +472,7 @@ ___________ is a folder which keeps track of changes, can be local or remote;
 
 Alena:
 Aysun:
-Cumali:
+Cumali:repository
 Elena:
 Jasmine:
 Jennifer:
@@ -489,7 +489,7 @@ ______ function copies local changes to remote repository;
 
 Alena:
 Aysun:
-Cumali:
+Cumali:push
 Elena:
 Jasmine:
 Jennifer:
@@ -507,7 +507,7 @@ During ______ meeting: 1. PO explains each story to the dev team.
 
 Alena:
 Aysun:
-Cumali:
+Cumali:grooming
 Elena:
 Jasmine:
 Jennifer:
@@ -527,7 +527,7 @@ int i = (int)f;
 
 Alena:
 Aysun:
-Cumali:
+Cumali:Widening casting
 Elena:
 Jasmine:
 Jennifer:
@@ -547,7 +547,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:2
 Elena:
 Jasmine:
 Jennifer:
@@ -567,7 +567,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:true
 Elena:
 Jasmine:
 Jennifer:
@@ -595,7 +595,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:1 and 2
 Elena:
 Jasmine:
 Jennifer:
@@ -630,7 +630,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:opening google in chrome
 Elena:
 Jasmine:
 Jennifer:
@@ -651,7 +651,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:AfterMethod or AfterClass
 Elena:
 Jasmine:
 Jennifer:
