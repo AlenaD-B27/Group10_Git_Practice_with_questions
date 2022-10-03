@@ -394,7 +394,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: Simultaneous
 Zorig:
 
 23. SoftSkill:
