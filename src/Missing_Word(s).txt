@@ -65,12 +65,12 @@ Vitalii:
 Zorig:
 
 4. Java Syntax:
-public static void main(___String[]____ args) {
+public static void main(_______ args) {
 }
 
 Alena:
 Aysun:
-Cumali:
+Cumali:String[]
 Elena:
 Jasmine:
 Jennifer:
