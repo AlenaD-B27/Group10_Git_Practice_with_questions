@@ -649,7 +649,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:AfterMethod or AfterClass
 Elena:
 Jasmine:
 Jennifer:
