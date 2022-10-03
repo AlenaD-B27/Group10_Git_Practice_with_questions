@@ -428,7 +428,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: access modifiers
 Zorig:
 
 25. Git:
