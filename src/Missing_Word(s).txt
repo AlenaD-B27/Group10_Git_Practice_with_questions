@@ -47,7 +47,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: out
 Zorig:
 
 3. Selenium Syntax:
