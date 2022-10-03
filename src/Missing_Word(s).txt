@@ -245,7 +245,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: Chrome, Safari, Mozilla, Opera, IE
 Zorig:
 
 15.  Real interview question: - What Java version do you use?
