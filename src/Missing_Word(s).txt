@@ -463,7 +463,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: record changes
 Zorig:
 
 27. Git:
