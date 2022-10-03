@@ -235,7 +235,7 @@ Zorig:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:Chrome, Firefox, Dolphin, Opera, Safari, Microsoft Edge
 Elena:
 Jasmine:
 Jennifer:
