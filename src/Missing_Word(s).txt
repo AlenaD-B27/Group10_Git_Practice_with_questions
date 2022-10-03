@@ -102,7 +102,7 @@ Assert.__________(actualText.contains(expectedText));
 
 Alena:
 Aysun:
-Cumali:
+Cumali:True
 Elena:
 Jasmine:
 Jennifer:
