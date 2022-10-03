@@ -303,7 +303,7 @@ every sprint, all the developers & SDETs show their tasks' result in a  ______ m
 
 Alena:
 Aysun:
-Cumali:
+Cumali:Demo
 Elena:
 Jasmine:
 Jennifer:
