@@ -49,7 +49,7 @@ Vitalii:
 Zorig:
 
 3. Selenium Syntax:
-driver.manage().timeouts().implicitlyWait(10, _______.SECONDS);
+driver.manage().timeouts().implicitlyWait(10, __TimeUnit_____.SECONDS);
 
 Alena:
 Aysun:
