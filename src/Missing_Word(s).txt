@@ -31,7 +31,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: Scrum Master
 Zorig:
 
 2. Java Syntax:
