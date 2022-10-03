@@ -204,7 +204,7 @@ Zorig:
 URL stands for Uniform Resource _________. URL is the address of a given unique resource on the Web.
 
 Alena:
-Aysun:
+Aysun: locators
 Cumali:
 Elena:
 Jasmine:
@@ -249,7 +249,7 @@ Zorig:
 15.  Real interview question: - What Java version do you use?
 
 Alena:
-Aysun:
+Aysun: 17.0.3
 Cumali:
 Elena:
 Jasmine:
@@ -302,7 +302,7 @@ Zorig:
 every sprint, all the developers & SDETs show their tasks' result in a  ______ meeting - represent the app and codes in front of the business team (and sometimes customer).
 
 Alena:
-Aysun:
+Aysun: Demo meeting
 Cumali:
 Elena:
 Jasmine:
@@ -329,7 +329,7 @@ Zorig:
 
 
 Alena:
-Aysun:
+Aysun:<head></head>
 Cumali:
 Elena:
 Jasmine:
@@ -365,7 +365,7 @@ Static testing => Verification process
 ______ testing => Validation process
 
 Alena:
-Aysun:
+Aysun: dynamic testing
 Cumali:
 Elena:
 Jasmine:
