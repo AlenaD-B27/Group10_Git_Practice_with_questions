@@ -313,7 +313,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: retrospective
 Zorig:
 
 19. HTML:
