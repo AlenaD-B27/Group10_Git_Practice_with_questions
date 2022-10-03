@@ -37,7 +37,7 @@ System.____.println("Hello World!");
 
 Alena:
 Aysun:
-Cumali:Scrum master
+Cumali:out
 Elena:
 Jasmine:
 Jennifer:
