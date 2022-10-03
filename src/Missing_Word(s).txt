@@ -260,7 +260,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: 11
 Zorig:
 
 16. SoftSkill:
