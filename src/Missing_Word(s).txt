@@ -150,7 +150,7 @@ Primitive data types sorted by memory capacity: byte, short, int, long, _____, d
 
 Alena:
 Aysun:
-Cumali:
+Cumali:float
 Elena:
 Jasmine:
 Jennifer:
