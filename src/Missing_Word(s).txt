@@ -21,7 +21,7 @@ _______ is the leader and the coach for the scrum team who checks whether the sc
 
 Alena:
 Aysun:
-Cumali:
+Cumali:Scrum Master
 Elena:
 Jasmine:
 Jennifer:
