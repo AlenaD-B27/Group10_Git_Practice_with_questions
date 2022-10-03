@@ -376,7 +376,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: dynamic
 Zorig:
 
 
