@@ -215,7 +215,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: locator
 Zorig:
 
 13. Real interview question: - What are the Operating System(OS) do you use?
