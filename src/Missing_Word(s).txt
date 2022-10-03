@@ -134,7 +134,7 @@ String daysOfTheWeek [] = __"Monday", "Tuesday", "Wednesday", "Thursday", "Frida
 
 Alena:
 Aysun:
-Cumali:
+Cumali:{}
 Elena:
 Jasmine:
 Jennifer:
