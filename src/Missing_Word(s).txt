@@ -198,7 +198,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: desktop
 Zorig:
 
 12. SoftSkill:
