@@ -49,11 +49,11 @@ Vitalii:
 Zorig:
 
 3. Selenium Syntax:
-driver.manage().timeouts().implicitlyWait(10, __TimeUnit_____.SECONDS);
+driver.manage().timeouts().implicitlyWait(10, _______.SECONDS);
 
 Alena:
 Aysun:
-Cumali:
+Cumali:TimeUnit
 Elena:
 Jasmine:
 Jennifer:
@@ -65,7 +65,7 @@ Vitalii:
 Zorig:
 
 4. Java Syntax:
-public static void main(_______ args) {
+public static void main(___String[]____ args) {
 }
 
 Alena:
