@@ -144,7 +144,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: {}
 Zorig:
 
 9. Java:
