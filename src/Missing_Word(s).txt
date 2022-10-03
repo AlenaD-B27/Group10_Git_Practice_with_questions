@@ -167,7 +167,7 @@ Constant variable: public static _____ double PI = 3.14;
 
 Alena:
 Aysun:
-Cumali:
+Cumali:final
 Elena:
 Jasmine:
 Jennifer:
