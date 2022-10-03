@@ -188,7 +188,7 @@ Types of Application software:
 
 Alena:
 Aysun:
-Cumali:
+Cumali:desktop
 Elena:
 Jasmine:
 Jennifer:
