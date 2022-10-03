@@ -515,7 +515,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: Sprint planning
 Zorig:
 
 30. Java:
