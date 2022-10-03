@@ -505,7 +505,7 @@ During ______ meeting: 1. PO explains each story to the dev team.
 
 Alena:
 Aysun:
-Cumali:
+Cumali:grooming
 Elena:
 Jasmine:
 Jennifer:
