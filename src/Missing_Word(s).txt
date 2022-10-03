@@ -128,7 +128,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: System.in
 Zorig:
 
 8. Java Syntax:
