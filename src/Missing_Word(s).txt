@@ -31,7 +31,7 @@ Maria:
 Olesya: Alena
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: Scrum Master
 Zorig:
 
 2. Java Syntax:
@@ -47,7 +47,7 @@ Maria:
 Olesya:out
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: out
 Zorig:
 
 3. Selenium Syntax:
@@ -63,7 +63,7 @@ Maria:
 Olesya: TimeUnit
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: TimeUnit
 Zorig:
 
 4. Java Syntax:
@@ -80,7 +80,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: String[]
 Zorig:
 
 5. Selenium Syntax:
@@ -96,7 +96,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: xpath
 Zorig:
 
 6. Selenium Syntax:
@@ -112,7 +112,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: assertEquals
 Zorig:
 
 7. Java Syntax:
@@ -128,7 +128,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: System.in
 Zorig:
 
 8. Java Syntax:
@@ -144,7 +144,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: {}
 Zorig:
 
 9. Java:
@@ -160,7 +160,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: float
 Zorig:
 
 
@@ -177,7 +177,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: final
 Zorig:
 
 11. SoftSkill:
@@ -198,7 +198,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: desktop
 Zorig:
 
 12. SoftSkill:
@@ -215,7 +215,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: locator
 Zorig:
 
 13. Real interview question: - What are the Operating System(OS) do you use?
@@ -230,7 +230,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: Windows
 Zorig:
 
 14. Real interview question: - What are the browsers do you know?
@@ -245,7 +245,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: Chrome, Safari, Mozilla, Opera, IE
 Zorig:
 
 15.  Real interview question: - What Java version do you use?
@@ -260,7 +260,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: 11
 Zorig:
 
 16. SoftSkill:
@@ -279,7 +279,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: web application
 Zorig:
 
 17. SoftSkill:
@@ -296,7 +296,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: scrum master
 Zorig:
 
 18. SoftSkill:
@@ -313,7 +313,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: retrospective
 Zorig:
 
 19. HTML:
@@ -340,7 +340,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: head
 Zorig:
 
 20. HTML:
@@ -357,7 +357,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: markup
 Zorig:
 
 
@@ -376,7 +376,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: dynamic
 Zorig:
 
 
@@ -394,7 +394,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: Simultaneous
 Zorig:
 
 23. SoftSkill:
@@ -411,7 +411,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: requirement
 Zorig:
 
 24. OOP Java:
@@ -428,7 +428,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: access modifiers
 Zorig:
 
 25. Git:
@@ -445,7 +445,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: blue
 Zorig:
 
 
@@ -463,7 +463,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: record changes
 Zorig:
 
 27. Git:
@@ -480,7 +480,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: develop
 Zorig:
 
 28. Git:
@@ -497,7 +497,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: push
 Zorig:
 
 29. SoftSkill:
@@ -515,7 +515,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: Sprint planning
 Zorig:
 
 30. Java:
@@ -535,7 +535,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: float value
 Zorig:
 
 
@@ -555,7 +555,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: 2
 Zorig:
 
 
@@ -575,7 +575,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: true
 Zorig:
 
 
@@ -603,7 +603,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: simple
 Zorig:
 
 
@@ -638,7 +638,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: opening google in chrome
 Zorig:
 
 
@@ -659,7 +659,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii:
+Vitalii: AfterMethod
 Zorig:
 
 
