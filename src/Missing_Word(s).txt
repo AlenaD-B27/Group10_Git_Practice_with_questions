@@ -24,7 +24,7 @@ _______ is the leader and the coach for the scrum team who checks whether the sc
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: Scrum Master
 Jasmine:
 Jennifer:
 Maria:
@@ -40,7 +40,7 @@ System.____.println("Hello World!");
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: out
 Jasmine:
 Jennifer:
 Maria:
@@ -56,7 +56,7 @@ driver.manage().timeouts().implicitlyWait(10, _______.SECONDS);
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: TimeUnit
 Jasmine:
 Jennifer:
 Maria:
@@ -73,7 +73,7 @@ public static void main(_______ args) {
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: string
 Jasmine:
 Jennifer:
 Maria:
@@ -89,7 +89,7 @@ WebElement forgotPassword = driver.findElement(By.________("//h2[text()='Forgot 
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: xpath
 Jasmine:
 Jennifer:
 Maria:
@@ -105,7 +105,7 @@ Assert.__________(actualText.contains(expectedText));
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: Equals
 Jasmine:
 Jennifer:
 Maria:
@@ -121,7 +121,7 @@ Scanner input = new Scanner(__________);
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: System.in
 Jasmine:
 Jennifer:
 Maria:
@@ -137,7 +137,7 @@ String daysOfTheWeek [] = __"Monday", "Tuesday", "Wednesday", "Thursday", "Frida
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: {}
 Jasmine:
 Jennifer:
 Maria:
@@ -153,7 +153,7 @@ Primitive data types sorted by memory capacity: byte, short, int, long, _____, d
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: float
 Jasmine:
 Jennifer:
 Maria:
@@ -170,7 +170,7 @@ Constant variable: public static _____ double PI = 3.14;
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: final
 Jasmine:
 Jennifer:
 Maria:
@@ -191,7 +191,7 @@ Types of Application software:
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: Desktop
 Jasmine:
 Jennifer:
 Maria:
@@ -208,7 +208,7 @@ URL stands for Uniform Resource _________. URL is the address of a given unique 
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: Locator
 Jasmine:
 Jennifer:
 Maria:
@@ -223,7 +223,7 @@ Zorig:
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: Windows, MacOS, Linex
 Jasmine:
 Jennifer:
 Maria:
@@ -238,7 +238,7 @@ Zorig:
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: Chrome, Internet Explorer, Firefox, Opera
 Jasmine:
 Jennifer:
 Maria:
@@ -253,7 +253,7 @@ Zorig:
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: 9
 Jasmine:
 Jennifer:
 Maria:
@@ -272,7 +272,7 @@ There are at least 4 of them for a software: development, test, staging and prod
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena:Environments
 Jasmine:
 Jennifer:
 Maria:
@@ -289,7 +289,7 @@ Business team = PM + PO + _____;
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: BA
 Jasmine:
 Jennifer:
 Maria:
@@ -306,7 +306,7 @@ every sprint, all the developers & SDETs show their tasks' result in a  ______ m
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena:Demo
 Jasmine:
 Jennifer:
 Maria:
@@ -333,7 +333,7 @@ Zorig:
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena:p
 Jasmine:
 Jennifer:
 Maria:
@@ -350,7 +350,7 @@ HTML stands for HyperText ______ Language.
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: Markup
 Jasmine:
 Jennifer:
 Maria:
@@ -369,7 +369,7 @@ ______ testing => Validation process
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: Dynamic
 Jasmine:
 Jennifer:
 Maria:
@@ -387,7 +387,7 @@ Zorig:
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena:non factional
 Jasmine:
 Jennifer:
 Maria:
@@ -404,7 +404,7 @@ ________ is a detail info about User Story.
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: AC
 Jasmine:
 Jennifer:
 Maria:
@@ -421,7 +421,7 @@ _______ :public, default, private, protected.
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: Access Modifiers
 Jasmine:
 Jennifer:
 Maria:
@@ -438,7 +438,7 @@ Zorig:
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: Yellow? Blue?
 Jasmine:
 Jennifer:
 Maria:
@@ -456,7 +456,7 @@ VCS stands for ___________.
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena:Version Control Systems
 Jasmine:
 Jennifer:
 Maria:
@@ -473,7 +473,7 @@ ___________ is a folder which keeps track of changes, can be local or remote;
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena:Gitignore
 Jasmine:
 Jennifer:
 Maria:
@@ -490,7 +490,7 @@ ______ function copies local changes to remote repository;
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: Push
 Jasmine:
 Jennifer:
 Maria:
@@ -508,7 +508,7 @@ During ______ meeting: 1. PO explains each story to the dev team.
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: Grooming
 Jasmine:
 Jennifer:
 Maria:
@@ -528,7 +528,7 @@ int i = (int)f;
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: moving int to float
 Jasmine:
 Jennifer:
 Maria:
@@ -548,7 +548,7 @@ Zorig:
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: 3
 Jasmine:
 Jennifer:
 Maria:
@@ -568,7 +568,7 @@ Zorig:
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: error
 Jasmine:
 Jennifer:
 Maria:
@@ -596,7 +596,7 @@ Zorig:
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena:Nested
 Jasmine:
 Jennifer:
 Maria:
@@ -631,7 +631,7 @@ Zorig:
 Alena:
 Aysun:
 Cumali:
-Elena:
+Elena: System.out.println("opening google safari")
 Jasmine:
 Jennifer:
 Maria:
