@@ -22,7 +22,7 @@ Vitalii: white
 _______ is the leader and the coach for the scrum team who checks whether the scrum team is executing committed tasks properly. He is also responsible to increase the efficiency and productivity of the team so that they can achieve the sprint goal effectively.
 
 Alena:
-Aysun:
+Aysun: Scrum Master
 Cumali:
 Elena:
 Jasmine:
@@ -38,7 +38,7 @@ Zorig:
 System.____.println("Hello World!");
 
 Alena:
-Aysun:
+Aysun: out
 Cumali:
 Elena:
 Jasmine:
@@ -54,7 +54,7 @@ Zorig:
 driver.manage().timeouts().implicitlyWait(10, _______.SECONDS);
 
 Alena:
-Aysun:
+Aysun: THREAD
 Cumali:
 Elena:
 Jasmine:
@@ -71,7 +71,7 @@ public static void main(_______ args) {
 }
 
 Alena:
-Aysun:
+Aysun: String[]
 Cumali:
 Elena:
 Jasmine:
@@ -87,7 +87,7 @@ Zorig:
 WebElement forgotPassword = driver.findElement(By.________("//h2[text()='Forgot Password']"));
 
 Alena:
-Aysun:
+Aysun: findElement
 Cumali:
 Elena:
 Jasmine:
@@ -119,7 +119,7 @@ Zorig:
 Scanner input = new Scanner(__________);
 
 Alena:
-Aysun:
+Aysun: System.in
 Cumali:
 Elena:
 Jasmine:
@@ -135,7 +135,7 @@ Zorig:
 String daysOfTheWeek [] = __"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" __;
 
 Alena:
-Aysun:
+Aysun: {}
 Cumali:
 Elena:
 Jasmine:
@@ -151,7 +151,7 @@ Zorig:
 Primitive data types sorted by memory capacity: byte, short, int, long, _____, double.
 
 Alena:
-Aysun:
+Aysun: float
 Cumali:
 Elena:
 Jasmine:
@@ -189,7 +189,7 @@ Types of Application software:
                       4. Hybrid app
 
 Alena:
-Aysun:
+Aysun: desktop
 Cumali:
 Elena:
 Jasmine:
@@ -206,7 +206,7 @@ Zorig:
 URL stands for Uniform Resource _________. URL is the address of a given unique resource on the Web.
 
 Alena:
-Aysun:
+Aysun: locators
 Cumali:
 Elena:
 Jasmine:
@@ -221,7 +221,7 @@ Zorig:
 13. Real interview question: - What are the Operating System(OS) do you use?
 
 Alena:
-Aysun:
+Aysun: macOS, Microsoft, Linux, Android
 Cumali:
 Elena:
 Jasmine:
@@ -236,7 +236,7 @@ Zorig:
 14. Real interview question: - What are the browsers do you know?
 
 Alena:
-Aysun:
+Aysun: safari, chrome, firefox
 Cumali:
 Elena:
 Jasmine:
@@ -251,7 +251,7 @@ Zorig:
 15.  Real interview question: - What Java version do you use?
 
 Alena:
-Aysun:
+Aysun: 17.0.3
 Cumali:
 Elena:
 Jasmine:
@@ -287,7 +287,7 @@ Zorig:
 Business team = PM + PO + _____;
 
 Alena:
-Aysun:
+Aysun: BA
 Cumali:
 Elena:
 Jasmine:
@@ -304,7 +304,7 @@ Zorig:
 every sprint, all the developers & SDETs show their tasks' result in a  ______ meeting - represent the app and codes in front of the business team (and sometimes customer).
 
 Alena:
-Aysun:
+Aysun: Demo meeting
 Cumali:
 Elena:
 Jasmine:
@@ -331,7 +331,7 @@ Zorig:
 
 
 Alena:
-Aysun:
+Aysun:<head></head>
 Cumali:
 Elena:
 Jasmine:
@@ -348,7 +348,7 @@ Zorig:
 HTML stands for HyperText ______ Language.
 
 Alena:
-Aysun:
+Aysun: markup
 Cumali:
 Elena:
 Jasmine:
@@ -367,7 +367,7 @@ Static testing => Verification process
 ______ testing => Validation process
 
 Alena:
-Aysun:
+Aysun: dynamic testing
 Cumali:
 Elena:
 Jasmine:
@@ -436,7 +436,7 @@ Zorig:
 ------- color means it is not committed.
 
 Alena:
-Aysun:
+Aysun: red
 Cumali:
 Elena:
 Jasmine:
@@ -454,7 +454,7 @@ Zorig:
 VCS stands for ___________.
 
 Alena:
-Aysun:
+Aysun: version control system
 Cumali:
 Elena:
 Jasmine:
@@ -471,7 +471,7 @@ Zorig:
 ___________ is a folder which keeps track of changes, can be local or remote;
 
 Alena:
-Aysun:
+Aysun: github
 Cumali:
 Elena:
 Jasmine:
@@ -526,7 +526,7 @@ int i = (int)f;
    It is an example of ________.
 
 Alena:
-Aysun:
+Aysun: narrowing convention
 Cumali:
 Elena:
 Jasmine:
@@ -546,7 +546,7 @@ Zorig:
    Output: ___
 
 Alena:
-Aysun:
+Aysun: 2
 Cumali:
 Elena:
 Jasmine:
@@ -566,7 +566,7 @@ Zorig:
    Output: ___
 
 Alena:
-Aysun:
+Aysun: error
 Cumali:
 Elena:
 Jasmine:
@@ -594,7 +594,7 @@ Zorig:
    It is an example of ______ if statement.
 
 Alena:
-Aysun:
+Aysun: multi branch
 Cumali:
 Elena:
 Jasmine:
