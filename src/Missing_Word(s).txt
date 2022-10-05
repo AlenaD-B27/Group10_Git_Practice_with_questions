@@ -474,7 +474,7 @@ ___________ is a folder which keeps track of changes, can be local or remote;
 
 Alena:
 Aysun: github
-Cumali:
+Cumali: Repository !!!
 Elena:Gitignore
 Jasmine:
 Jennifer:
@@ -492,7 +492,7 @@ ______ function copies local changes to remote repository;
 Alena:
 Aysun:
 Cumali:
-Elena: Push
+Elena: Push!!!
 Jasmine:
 Jennifer:
 Maria:
@@ -510,7 +510,7 @@ During ______ meeting: 1. PO explains each story to the dev team.
 Alena:
 Aysun:
 Cumali:
-Elena: Grooming
+Elena: Grooming !!!!
 Jasmine:
 Jennifer:
 Maria:
@@ -522,10 +522,10 @@ Zorig:
 
 30. Java:
 
-float f = 14.5F;
-int i = (int)f;
+float x = 14.5F;
+int i = (int)x;  ===> CASTING! Converting one type into another type
 
-   It is an example of ________.
+   It is an example of CASTING.
 
 Alena:
 Aysun: narrowing convention
@@ -545,7 +545,7 @@ Zorig:
 
    int n = 2;
    System.out.println(n++);
-   Output: ___
+   Output: 2
 
 Alena:
 Aysun: 2
@@ -577,7 +577,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii: true
+Vitalii: true !!!!!!!!!!!!!!! correct
 Zorig:
 
 
@@ -593,7 +593,11 @@ Zorig:
            }
    }
 
-   It is an example of ______ if statement.
+   Console:
+   1
+   2
+
+   It is an example of NESTED if statement.
 
 Alena:
 Aysun: multi branch
@@ -607,7 +611,7 @@ Olha:
 Seraphi:
 Vitalii: simple
 Zorig:
-
+=================================================
 
 34. Java:
 
@@ -640,13 +644,13 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii: opening google in chrome
+Vitalii: opening google in chrome -------> correct answer
 Zorig:
 
 
 35. Selenium:
 
-@__________
+@AfterMethod
     public void tearDown(){
         driver.quit();
     }
@@ -661,7 +665,7 @@ Maria:
 Olesya:
 Olha:
 Seraphi:
-Vitalii: AfterMethod
+Vitalii: AfterMethod ----> Vitalii is a winner, lol
 Zorig:
 
 
