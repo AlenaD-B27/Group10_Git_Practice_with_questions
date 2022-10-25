@@ -77,7 +77,7 @@ Elena: string
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya: String []
 Olha:
 Seraphi:
 Vitalii: String[]
@@ -93,7 +93,7 @@ Elena: xpath
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya: xpath
 Olha:
 Seraphi:
 Vitalii: xpath
@@ -109,7 +109,7 @@ Elena: Equals
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya: assertEquals
 Olha:
 Seraphi:
 Vitalii: assertEquals
@@ -125,7 +125,7 @@ Elena: System.in
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya: (System.in);
 Olha:
 Seraphi:
 Vitalii: System.in
@@ -141,7 +141,7 @@ Elena: {}
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya: {}
 Olha:
 Seraphi:
 Vitalii: {}
@@ -157,7 +157,7 @@ Elena: float
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya: float
 Olha:
 Seraphi:
 Vitalii: float
@@ -174,7 +174,7 @@ Elena: final
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya: final
 Olha:
 Seraphi:
 Vitalii: final
@@ -195,7 +195,7 @@ Elena: Desktop
 Jasmine:
 Jennifer:
 Maria:
-Olesya:
+Olesya: Android and iOS app
 Olha:
 Seraphi:
 Vitalii: desktop
